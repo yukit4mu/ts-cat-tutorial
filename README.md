@@ -2,9 +2,11 @@
 To be honest, it's just like a tutorial, but it's exciting to deploy for the first time. XD
 
 ### Environment
+* * *
 - TypeScript
 - Next.JS
 - Vercel
 
 ### deploy url
+* * *
 https://ts-cat-tutorial.vercel.app/
